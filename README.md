@@ -1,6 +1,6 @@
 ## Paul Millen
 
-I am currently looking for junior developer roles having completed Makers Academy - a web development bootcamp that emphasises clean code using TDD, OOD and SOLID principals.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, created sounds and music as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.
+I am currently looking for junior developer roles having completed Makers Academy - a web development bootcamp that emphasises clean code using TDD, OOD and SOLID principles.  Previously, I provided business and accounting support to London tech startups at the forerunning specialists in the sector, iHorizon.  Prior to *that* I was a freelancer in the theatre and film industry.  I production managed touring theatre, created sounds and music as a theatre sound designer and swung the boom on the sets of commercials, TV and big budget movies.
 
 ## Skills
 
