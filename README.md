@@ -9,19 +9,21 @@ I am currently looking for junior developer roles having completed Makers Academ
 In twelve weeks at Makers Academy I have developed a solid foundation knowlege of the full stack, XP principals and TDD.  I have been required to learn languages and frameworks in short periods of time:
 - [Instagram clone](https://fstop-pm.herokuapp.com), after one week of learning Rails.
 - [SPA Note app](https://notes-pm.herokuapp.com/), after one week of learning Javascript.
-I am excited to discover new technologies and I made a point of pushing myself beyond the requirements of the course, for example, learning and implementing Bootstrap 4 on the above projects, ES6, or opting as part of a group project to experiment with Express and Node.  It is motivating, as a bit of an auto-didact, to see so much emphasis on independent learning on this course, and in the field of programming and development.
+I am excited to discover new technologies and I made a point of pushing myself beyond the requirements of the course, for example, learning and implementing Bootstrap 4 on the above projects, ES6, or opting as part of a group project to experiment with Express and Node.  It is motivating, as a bit of an auto-didact, to see so much emphasis on independent learning on this course, and in the field of programming and development.  
+
+#### Team Working
+
+During the Makers course there were many chances to develop effective group working.  I have learned how to methodically approach technical, and process, problems as a team and resolve them creatively together.
+
+I really enjoyed having opportunities to help my team mates on the course understand technology or concepts in times when I had a firmer grasp on certain aspects.  I felt a lot of satisfaction when the team was able to move through a project at the same pace, with everyone developing their skills and learning together.
+
+I feel that my time as a freelancer helped with this; by the nature of the project work, there were many times when forming a cohesive team in short order was required, discovering my place in the group and identifying moments when I could step up and help with a problem not directly related to my specific role.
 
 #### Communication
 
 Throughout my career it has been a requirement to effectively communicate between the technical and non-technical, whether tailoring financial reports, explaining technical accounting points to founders or negotiating the competing interests on theatre and film projects.  
 
-As a facet of XP, I believe effective listening is key to good communication.  Colleagues have been kind enough to say that I am an approachable and calming presence and I've always formed great relationships with my clients and colleagues as an accountant and a freelancer - for which your reputation secures your next job.  I was awarded "team player of the year" when I took a year out to work for St Christopher's Fellowship as a support worker for homeless young people in Shephards Bush. Training and working as a volunteer counsellor for Childline has also allowed me to develop my active listening skills.   
-
-#### Problem-solving
-
-My time as a freelancer has been an intensive preparation for the challenges of life as a developer.  I have learned how to methodically approach problems and resolve them creatively with limited time and resources.
-
-In 2012-13, I production managed the highliy acclaimed touring theatre project, *Ring*, for FUEL theatre.  This had a very specific set of technical requirements that had to be adapted to each venue.  It was my job to make this happen, managing each new team of technicians and house staff.
+As a facet of XP, I believe effective listening is key to good communication.  Colleagues have been kind enough to say that I am an approachable and calming presence and I've always formed great relationships with my clients and colleagues as an accountant and a freelancer - for which your reputation secures your next job.  I was awarded "team player of the year" when I took a year out to work for St Christopher's Fellowship as a support worker for homeless young people in Shephards Bush. Training and working as a volunteer counsellor for Childline has also allowed me to develop my active listening skills. 
 
 ## Experience
 
